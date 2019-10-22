@@ -2,6 +2,8 @@
   "name": "web-portfolio",
   "version": "1.0.0",
   "main": "index.js",
+  "homepage": "https://github.io/CaptainCrazyyy/web-portfolio",
+  "description": "web page ",
   "dependencies": {
     "gh-pages": "^2.1.1"
   },
@@ -17,7 +19,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/CaptainCrazyyy/web-portfolio/issues"
-  },
-  "homepage": "https://github.io/CaptainCrazyyy/web-portfolio#readme",
-  "description": "web page "
+  }
 }
